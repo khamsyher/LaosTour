@@ -1,5 +1,5 @@
 import React from 'react'
-import Package1 from '../../img/packageimage01.jpg'
+import Package1 from '../../img/phongsali1.jfif.jpg'
 import Package2 from '../../img/packageimage02.jpg'
 import Package3 from '../../img/packageimage03.jpg'
 import Package4 from '../../img/packageimage04.jpg'
@@ -22,17 +22,12 @@ export default function phongsaliplaces() {
                         <img className="img-fluid" src={Package1} alt=""/>
                         <div className="p-4">
                             <div className="d-flex justify-content-between mb-3">
-                                <small className="m-0"><i className="fa fa-map-marker-alt text-primary mr-2"></i>phongsali</small>
+                                <small className="m-0"><i className="fa fa-map-marker-alt text-primary mr-2"></i>ເມືອງບຸນເໜືອ</small>
                                 <small className="m-0"><i className="fa fa-calendar-alt text-primary mr-2"></i>3 days</small>
                                 <small className="m-0"><i className="fa fa-user text-primary mr-2"></i>2 Person</small>
                             </div>
-                            <a className="h5 text-decoration-none" href="/#">Discover amazing places of the world with us</a>
-                            <div className="border-top mt-4 pt-4">
-                                <div className="d-flex justify-content-between">
-                                    <h6 className="m-0"><i className="fa fa-star text-primary mr-2"></i>4.5 <small>(250)</small></h6>
-                                    <h5 className="m-0">$350</h5>
-                                </div>
-                            </div>
+                            <a className="h5 text-decoration-none" href="/#">ປ່າສະຫງ່ວນພູຖະແຫຼງເປັນເຂດທີ່ອຸດົມສົມບູນໄປດ້ວຍທຳມະຊາດ,ສັດນ້ຳ,ສັດບົກແລະພືດພັນນາໆຊະນິດ,ເປັນຈຸດຊົມວິວທີ່ສວຍງາມຂອງພູຜາປ່າໄມ້ສະຫຼັບສັບຊ້ອນເປັນໜ້າສະອອນເມື່ອໄດ້ສຳພັດ</a>
+                            
                         </div>
                     </div>
                 </div>

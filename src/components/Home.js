@@ -10,8 +10,7 @@ import Destination from './Destiantion/Destination';
 import Service from './Service/Service';
 import Packages from './Package/Packages';
 import Rigistration from './Rigistration';
-import Team from './Team';
-// import Testimonial from './Testimonial';
+import Guide from '../components/Guide/guidepeople'
 import Blog from './Blog';
 import Footer from './Footer';
 import Backtop from './Backtop';
@@ -29,8 +28,7 @@ function Home() {
       <Service/>
       <Packages/>
       <Rigistration/>
-      <Team/>
-      {/* <Testimonial/> */}
+      <Guide/>
       <Blog/>
       <Footer/>
       <Backtop/>
