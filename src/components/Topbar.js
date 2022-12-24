@@ -8,9 +8,9 @@ export default function Topbar() {
             <div className="row">
                 <div className="col-lg-6 text-center text-lg-left mb-2 mb-lg-0">
                     <div className="d-inline-flex align-items-center">
-                        <p><i className="fa fa-envelope mr-2"></i>khamsyher2021@gmail.com</p>
+                        <p><i className="fa fa-envelope mr-2"></i>laotour2023@gmail.com</p>
                         <p className="text-body px-3">|</p>
-                        <p><i className="fa fa-phone-alt mr-2"></i>+856 020 76 288 084</p>
+                        <p><i className="fa fa-phone-alt mr-2"></i>+856 20 76 288 084</p>
                     </div>
                 </div>
                 <div className="col-lg-6 text-center text-lg-right">

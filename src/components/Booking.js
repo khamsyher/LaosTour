@@ -11,42 +11,70 @@ export default function Booking() {
                         <div className="row">
                             <div className="col-md-3">
                                 <div className="mb-3 mb-md-0">
+                                    <small>ຈຸດໝາຍປາຍທາງ</small>
                                     <select className="custom-select px-4" style={{height: "47px"}}>
-                                        <option selected>Destination</option>
-                                        <option value="1">Destination 1</option>
-                                        <option value="2">Destination 2</option>
-                                        <option value="3">Destination 3</option>
+                                        <option selected>ເລືອກປາຍທາງ</option>
+                                        <option value="1">ຜົ້ງສາລີ</option>
+                                        <option value="2">ຫຼວງນໍ້າທາ</option>
+                                        <option value="3">ບໍ່ແກ້ວ</option>
+                                        <option value="4">ອຸດົມໄຊ</option>
+                                        <option value="5">ຫຼວງພະບາງ</option>
+                                        <option value="6">ຫົວພັນ</option>
+                                        <option value="7">ຊຽງຂວາງ</option>
+                                        <option value="8">ໄຊຍະບູລີ</option>
+                                        <option value="9">ວຽງຈັນ</option>
+                                        <option value="10">ໄຊສົມບູນ</option>
+                                        <option value="11">ນະຄອນຫຼວງວຽງຈັນ</option>
+                                        <option value="12">ບໍລິຄຳໄຊ</option>
+                                        <option value="13">ຄຳມ່ວນ</option>
+                                        <option value="14">ສະຫັວນນະເຂດ</option>
+                                        <option value="15">ສາລະວັນ</option>
+                                        <option value="16">ເຊກອງ</option>
+                                        <option value="17">ຈຳປາສັັກ</option>
+                                        <option value="18">ອັດຕະປື</option>
                                     </select>
                                 </div>
                             </div>
                             <div className="col-md-3">
                                 <div className="mb-3 mb-md-0">
                                     <div className="date" id="date1" data-target-input="nearest">
-                                        <input type="text" className="form-control p-4 datetimepicker-input" placeholder="Depart Date" data-target="#date1" data-toggle="datetimepicker"/>
+                                        <small>ວັນທີ່ອອກເດີນທາງ</small>
+                                        <input type="date" className="form-control p-4 datetimepicker-input" placeholder="ວັນທີ່ອອກເດີນທາງ" data-target="#date1" data-toggle="datetimepicker"/>
                                     </div>
                                 </div>
                             </div>
                             <div className="col-md-3">
                                 <div className="mb-3 mb-md-0">
                                     <div className="date" id="date2" data-target-input="nearest">
-                                        <input type="text" className="form-control p-4 datetimepicker-input" placeholder="Return Date" data-target="#date2" data-toggle="datetimepicker"/>
+                                        <small>ວັນທີກັບຄືນ</small>
+                                        <input type="date" className="form-control p-4 datetimepicker-input" placeholder="ວັນທີກັບຄືນ" data-target="#date2" data-toggle="datetimepicker"/>
                                     </div>
                                 </div>
                             </div>
                             <div className="col-md-3">
                                 <div className="mb-3 mb-md-0">
+                                    <small>ໄລຍະເວລາ</small>
                                     <select className="custom-select px-4" style={{height: "47px"}}>
-                                        <option selected>Duration</option>
-                                        <option value="1">Duration 1</option>
-                                        <option value="2">Duration 2</option>
-                                        <option value="3">Duration 3</option>
+                                        <option selected>ເລືອກເວລາ</option>
+                                        <option value="1">1 ມື້</option>
+                                        <option value="1">2 ມື້</option>
+                                        <option value="1">3 ມື້</option>
+                                        <option value="1">4 ມື້</option>
+                                        <option value="1">5 ມື້</option>
+                                        <option value="1">1 ອາທິດ</option>
+                                        <option value="1">2 ອາທິດ</option>
+                                        <option value="1">3 ອາທິດ</option>
+                                        <option value="1">1 ເດືອນ</option>
+                                        <option value="1">2 ເດືອນ</option>
+                                        
                                     </select>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div className="col-md-2">
-                        <button className="btn btn-primary btn-block" type="submit" style={{height: "47px", marginTop: "-2px"}}>Submit</button>
+                        <br/>
+                        <button className="btn btn-primary btn-block" type="submit" style={{height: "47px", marginTop: "-2px"}}>ບັນທືນຂໍ້ມູນ</button>
                     </div>
                 </div>
             </div>

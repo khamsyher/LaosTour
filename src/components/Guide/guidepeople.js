@@ -12,8 +12,8 @@ export default function guidepeople() {
         <div className="container-fluid py-5">
         <div className="container pt-5 pb-3">
             <div className="text-center mb-3 pb-3">
-                <h6 className="text-primary text-uppercase" style={{letterSpacing: "5px"}}>Guides</h6>
-                <h1>Our Travel Guides</h1>
+                <h6 className="text-primary text-uppercase" style={{letterSpacing: "3px"}}>ນັກພາທ່ຽວ</h6>
+                <h1>ທີມງານພາທ່ຽວຂອງພວກເຮົາ</h1>
             </div>
             <div className="row">
                 <div className="col-lg-3 col-md-4 col-sm-6 pb-2">
@@ -24,12 +24,12 @@ export default function guidepeople() {
                                 <a className="btn btn-outline-primary btn-square" href="/#"><i className="fab fa-twitter"></i></a>
                                 <a className="btn btn-outline-primary btn-square" href="/#"><i className="fab fa-facebook-f"></i></a>
                                 <a className="btn btn-outline-primary btn-square" href="/#"><i className="fab fa-instagram"></i></a>
-                                <a className="btn btn-outline-primary btn-square" href="/#"><i className="fab fa-linkedin-in"></i></a>
+                                <a className="btn btn-outline-primary btn-square" href="/#"><i className="fab fa-whatsapp"></i></a>
                             </div>
                         </div>
                         <div className="text-center py-4">
-                            <h5 className="text-truncate">Khamsy</h5>
-                            <p className="m-0">Designation</p>
+                            <h5 className="text-truncate">MEX</h5>
+                            <p className="m-0">ພະນັກງານປະຈຳ</p>
                         </div>
                     </div>
                 </div>
@@ -41,7 +41,7 @@ export default function guidepeople() {
                                 <a className="btn btn-outline-primary btn-square" href="/#"><i className="fab fa-twitter"></i></a>
                                 <a className="btn btn-outline-primary btn-square" href="/#"><i className="fab fa-facebook-f"></i></a>
                                 <a className="btn btn-outline-primary btn-square" href="/#"><i className="fab fa-instagram"></i></a>
-                                <a className="btn btn-outline-primary btn-square" href="/#"><i className="fab fa-linkedin-in"></i></a>
+                                <a className="btn btn-outline-primary btn-square" href="/#"><i className="fab fa-whatsapp"></i></a>
                             </div>
                         </div>
                         <div className="text-center py-4">
@@ -58,7 +58,7 @@ export default function guidepeople() {
                                 <a className="btn btn-outline-primary btn-square" href="/#"><i className="fab fa-twitter"></i></a>
                                 <a className="btn btn-outline-primary btn-square" href="/#"><i className="fab fa-facebook-f"></i></a>
                                 <a className="btn btn-outline-primary btn-square" href="/#"><i className="fab fa-instagram"></i></a>
-                                <a className="btn btn-outline-primary btn-square" href="/#"><i className="fab fa-linkedin-in"></i></a>
+                                <a className="btn btn-outline-primary btn-square" href="/#"><i className="fab fa-whatsapp"></i></a>
                             </div>
                         </div>
                         <div className="text-center py-4">
@@ -75,7 +75,7 @@ export default function guidepeople() {
                                 <a className="btn btn-outline-primary btn-square" href="/#"><i className="fab fa-twitter"></i></a>
                                 <a className="btn btn-outline-primary btn-square" href="/#"><i className="fab fa-facebook-f"></i></a>
                                 <a className="btn btn-outline-primary btn-square" href="/#"><i className="fab fa-instagram"></i></a>
-                                <a className="btn btn-outline-primary btn-square" href="/#"><i className="fab fa-linkedin-in"></i></a>
+                                <a className="btn btn-outline-primary btn-square" href="/#"><i className="fab fa-whatsapp"></i></a>
                             </div>
                         </div>
                         <div className="text-center py-4">

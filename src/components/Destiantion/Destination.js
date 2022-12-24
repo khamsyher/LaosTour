@@ -26,8 +26,8 @@ export default function Destination() {
         <div className="container-fluid py-5">
         <div className="container pt-5 pb-3">
             <div className="text-center mb-3 pb-3">
-                <h6 className="text-primary text-uppercase" style={{letterSpacing: "5px"}}>Destination</h6>
-                <h1>Explore Top Destination</h1>
+                <h6 className="text-primary text-uppercase" style={{letterSpacing: "3px"}}>ສະຖານທີ່ທ່ອງທຽວ</h6>
+                <h1>ລວມສະຖານທີ່ທ່ອງທ່ຽວພາຍໃນ18ແຂວງ</h1>
             </div>
             <div className="row">
                 <div className="col-lg-4 col-md-6 mb-4">

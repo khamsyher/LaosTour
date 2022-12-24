@@ -11,7 +11,7 @@ import Service from './Service/Service';
 import Packages from './Package/Packages';
 import Rigistration from './Rigistration';
 import Team from './Team';
-import Testimonial from './Testimonial';
+// import Testimonial from './Testimonial';
 import Blog from './Blog';
 import Footer from './Footer';
 import Backtop from './Backtop';
@@ -30,7 +30,7 @@ function Home() {
       <Packages/>
       <Rigistration/>
       <Team/>
-      <Testimonial/>
+      {/* <Testimonial/> */}
       <Blog/>
       <Footer/>
       <Backtop/>

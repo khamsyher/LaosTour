@@ -4,35 +4,36 @@ import 'owl.carousel/dist/assets/owl.carousel.css';
 import 'owl.carousel/dist/assets/owl.theme.default.css';
 import TestimonialItem from './TestimonialItem';
 import TestimonialImg1 from '../img/testimonial-1.jpg';
+import Kham from '../img/kham.png'
 
 const Testimonial =() =>{
     const Testimonial = [
         {
             id:1,
-            name: 'Khamsyher',
+            name: 'Somchai',
             description: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. ',
             address: 'LAOS',
             img: 'https://img.freepik.com/free-photo/handsome-confident-smiling-man-with-hands-crossed-chest_176420-18743.jpg?w=2000'
         },
         {
             id:2,
-            name: 'Brandon Savage',
+            name: 'Kham',
             description: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. ',
-            address: 'USA',
-            img: 'https://t4.ftcdn.net/jpg/02/24/86/95/360_F_224869519_aRaeLneqALfPNBzg0xxMZXghtvBXkfIA.jpg'
+            address: 'LAOS',
+            img: Kham
         },
         {
             id:3,
-            name: 'Steve Burns',
+            name: 'Vannaphong',
             description: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. ',
-            address: 'USA',
+            address: 'LAOS',
             img: 'https://img.freepik.com/free-photo/sexy-american-man-clasped-his-hands-seriously-looks-camera_8353-9941.jpg?w=2000'
         },
         {
             id:4,
-            name: 'Kevin Canlas',
+            name: 'Mani',
             description: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry.',
-            address: 'USA',
+            address: 'LAOS',
             img: 'https://img.freepik.com/free-photo/happy-smiling-handsome-man-against-blue-background_93675-135164.jpg?w=2000'
         },
     ]
@@ -63,8 +64,8 @@ const Testimonial =() =>{
         <div className="container-fluid py-5">
         <div className="container py-5">
             <div className="text-center mb-3 pb-3">
-                <h6 className="text-primary text-uppercase" style={{letterSpacing: "5px"}}>Testimonial</h6>
-                <h1>What Say Our Clients</h1>
+                <h6 className="text-primary text-uppercase" style={{letterSpacing: "5px"}}>ປະຈັດພະຍາດ</h6>
+                <h1>ສິ່ງທີ່ເວົ້າລູກຄ້າຂອງພວກເຮົາ</h1>
             </div>
                 <div className="row">
                     <div className="col-md-12">

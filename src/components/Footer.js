@@ -32,19 +32,19 @@ export default function Footer() {
             <div className="col-lg-3 col-md-6 mb-5">
                 <h5 className="text-white text-uppercase mb-4" style={{letterSpacing: "5px"}}>ຂໍ້ມູນ</h5>
                 <div className="d-flex flex-column justify-content-start">
-                    <a className="text-white-50 mb-2" href="/#"><i className="fa fa-angle-right mr-2"></i>About</a>
-                    <a className="text-white-50 mb-2" href="/#"><i className="fa fa-angle-right mr-2"></i>Destination</a>
-                    <a className="text-white-50 mb-2" href="/#"><i className="fa fa-angle-right mr-2"></i>Services</a>
-                    <a className="text-white-50 mb-2" href="/#"><i className="fa fa-angle-right mr-2"></i>Packages</a>
-                    <a className="text-white-50 mb-2" href="/#"><i className="fa fa-angle-right mr-2"></i>Guides</a>
-                    <a className="text-white-50 mb-2" href="/#"><i className="fa fa-angle-right mr-2"></i>Testimonial</a>
+                    <a className="text-white-50 mb-2" href="/#"><i className="fa fa-angle-right mr-2"></i>ກ່ຽວກັບ</a>
+                    <a className="text-white-50 mb-2" href="/#"><i className="fa fa-angle-right mr-2"></i>ສະຖານທີ່</a>
+                    <a className="text-white-50 mb-2" href="/#"><i className="fa fa-angle-right mr-2"></i>ບໍລິການ</a>
+                    <a className="text-white-50 mb-2" href="/#"><i className="fa fa-angle-right mr-2"></i>ປະຈັກພະຍາມ</a>
+                    <a className="text-white-50 mb-2" href="/#"><i className="fa fa-angle-right mr-2"></i>ຄົນພາທ່ຽວ</a>
+                    <a className="text-white-50 mb-2" href="/#"><i className="fa fa-angle-right mr-2"></i>ໂຮງແຮມ</a>
             
                 </div>
             </div>
             <div className="col-lg-3 col-md-6 mb-5">
                 <h5 className="text-white text-uppercase mb-4" style={{letterSpacing: "5px"}}>ສົ່ງທາງຕິດຕໍ່ພວກເຮົາ</h5>
                 <p><i className="fa fa-map-marker-alt mr-2"></i>ນະຄອນຫຼວງວຽງຈັນ ປະເທດລາວ</p>
-                <p><i className="fa fa-phone-alt mr-2"></i>+865 2076 288 084</p>
+                <p><i className="fa fa-phone-alt mr-2"></i>+865 20 76 288 084</p>
                 <p><i className="fa fa-envelope mr-2"></i>laotour2023@gmail.com</p>
                 <h6 className="text-white text-uppercase mt-4 mb-3" style={{letterSpacing: "5px"}}>ສະໝັກສະມາຊິກ</h6>
                 <div className="w-100">

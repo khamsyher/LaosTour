@@ -1,6 +1,6 @@
 import React from 'react'
 import video1 from '../img/bg-01.mp4'
-import video2 from '../img/bg-02.mp4'
+import video2 from '../img/waterfall2.mp4'
 
 export default function Carousel() {
   return (
@@ -22,9 +22,9 @@ export default function Carousel() {
                     <video className="w-100" src={video2} muted autoPlay loop type="video/mp4" alt="Image"/>
                         <div className="carousel-caption d-flex flex-column align-items-center justify-content-center">
                             <div className="p-3" style={{maxWidth :"900px"}}>
-                                <h4 className="text-white text-uppercase mb-md-3">Tours & Travel</h4>
-                                <h1 className="display-3 text-white mb-md-4">Discover Amazing Places With Us</h1>
-                                <a href="/#" className="btn btn-primary py-md-3 px-md-5 mt-2">Book Now</a>
+                                <h4 className="text-white text-uppercase mb-md-3">ນຳສະເໝີແຫ່ງທ່ອງທ່ຽວ</h4>
+                                <h1 className="display-3 text-white mb-md-4">ແຫ່ງທ່ອງທ່ຽວພິເສດສູດໆທີ່ເກີດຂື້ນຕາມທຳມະຊາດ</h1>
+                                <a href="/#" className="btn btn-primary py-md-3 px-md-5 mt-2">ຈອງຕອນນີ້</a>
                             </div>
                         </div>
                     </div>
