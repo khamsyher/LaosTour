@@ -21,7 +21,7 @@ export default function About() {
                     <div className="about-text bg-white p-4 p-lg-5 my-lg-5">
                         <h6 className="text-primary text-uppercase" style={{letterSpacing: "3px"}}>ກ່ຽວກັບພວກເຮົາ</h6>
                         <h1 className="mb-3">ພວກເຮົາສະຫນອງການທ່ອງທ່ຽວທີ່ດີທີ່ສຸດໃນງົບປະມານຂອງທ່ານ</h1>
-                        <p>Dolores lorem lorem ipsum sit et ipsum. Sadip sea amet diam dolore sed et. Sit rebum labore sit sit ut vero no sit. Et elitr stet dolor sed sit et sed ipsum et kasd ut. Erat duo eos et erat sed diam duo</p>
+                        <p>ປະເທດລາວມີການບໍລິການນຳທ່ຽວແຕ່ພາກເໜືອ ແລະ ພາກກາງຈົນເຖິງພາກໃຕ້ຂອງລາວ ແລະ ຍັງມີຄວາມແຕກຕ່າງກັນໄປເນື່ອງຈາກສະພາບແວດລ້ອມທາງທຳມະຊາດຂອງລາວເຮົາ, ປະເທດລາວເປັນພູງສຸງທາງພາກເໜືອ ແລະ ພາກຕາເວັນອອກຄ້ອຍລົງທາງພາກໃຕ້ ແລະ ພາກຕາເວັນຕົກຂອງລາວ ແລະ ຍັງມີການບໍລິການຕະຫຼອດໄລຍະເວລາໃນໂມງລັດຖະການ.</p>
                         <div className="row mb-4">
                             <div className="col-6">
                                 <img className="img-fluid" src={About1}alt=""/>

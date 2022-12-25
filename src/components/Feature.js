@@ -14,7 +14,7 @@ export default function Feature() {
                         </div>
                         <div className="d-flex flex-column">
                             <h5 className="">ງົບປະມານທ່ອງທ່ຽວ</h5>
-                            <p className="m-0">Magna sit magna dolor duo dolor labore rebum amet elitr est diam sea</p>
+                            <p className="m-0">ເວບພາທ່ຽວລາວຍິນດີຕ້ອນຮັບທ່ານເຂົ້າໃຊ້ບໍລິການ.</p>
                         </div>
                     </div>
                 </div>
@@ -25,7 +25,7 @@ export default function Feature() {
                         </div>
                         <div className="d-flex flex-column">
                             <h5 className="">ບໍລິການທີ່ຄຸມຄ່າ</h5>
-                            <p className="m-0">Magna sit magna dolor duo dolor labore rebum amet elitr est diam sea</p>
+                            <p className="m-0">ເວບພາທ່ຽວລາວຍິນດີຕ້ອນຮັບທ່ານເຂົ້າໃຊ້ບໍລິການ.</p>
                         </div>
                     </div>
                 </div>
@@ -36,7 +36,7 @@ export default function Feature() {
                         </div>
                         <div className="d-flex flex-column">
                             <h5 className="">ທ່ອງທ່ຽວທົ່ວປະເທດ</h5>
-                            <p className="m-0">Magna sit magna dolor duo dolor labore rebum amet elitr est diam sea</p>
+                            <p className="m-0">ເວບພາທ່ຽວລາວຍິນດີຕ້ອນຮັບທ່ານເຂົ້າໃຊ້ບໍລິການ.</p>
                         </div>
                     </div>
                 </div>
