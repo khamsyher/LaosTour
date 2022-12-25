@@ -29,6 +29,7 @@ import Hotel from './components/Hotel/hotelpage'
 import Ticket from './components/Ticket/ticketpage'
 import Guide from './components/Guide/guidepage'
 import Aboutimage from './components/AboutImage/aboutimagepage';
+import Rigist from './components/Destiantion/DestinationPage'
 
 function App() {
   return (
@@ -62,6 +63,7 @@ function App() {
           <Route path='tickettype' element={<Ticket/>}/>
           <Route path='guidepeople' element={<Guide/>}/>
           <Route path='aboutimage' element={<Aboutimage/>}/>
+          <Route path='DestinationPage' element={<Rigist/>}/>
           <Route>
             <Route path='blog' element={<Blog/>}/>
             <Route path='blog' element={<Blog/>}/>

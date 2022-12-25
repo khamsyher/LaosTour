@@ -13,7 +13,7 @@ export default function chanpasakplaces() {
         <div className="container-fluid py-5">
         <div className="container pt-5 pb-3">
             <div className="text-center mb-3 pb-3">
-                <h6 className="text-primary text-uppercase" style={{letterSpacing: "5px"}}>ສະເໝີ</h6>
+                <h6 className="text-primary text-uppercase" style={{letterSpacing: "5px"}}>ນຳສະເໝີແຂວງຈຳປາສັກ</h6>
                 <h1>ແຫ່ງທ່ອງທ່ຽວທີ່ຍອດນິຍົມ</h1>
             </div>
             <div className="row">
@@ -27,12 +27,7 @@ export default function chanpasakplaces() {
                                 <small className="m-0"><i className="fa fa-user text-primary mr-2"></i>2 Person</small>
                             </div>
                             <a className="h5 text-decoration-none" href="/#">Discover amazing places of the world with us</a>
-                            <div className="border-top mt-4 pt-4">
-                                <div className="d-flex justify-content-between">
-                                    <h6 className="m-0"><i className="fa fa-star text-primary mr-2"></i>4.5 <small>(250)</small></h6>
-                                    <h5 className="m-0">$350</h5>
-                                </div>
-                            </div>
+                            
                         </div>
                     </div>
                 </div>
@@ -46,12 +41,7 @@ export default function chanpasakplaces() {
                                 <small className="m-0"><i className="fa fa-user text-primary mr-2"></i>2 Person</small>
                             </div>
                             <a className="h5 text-decoration-none" href="/#">Discover amazing places of the world with us</a>
-                            <div className="border-top mt-4 pt-4">
-                                <div className="d-flex justify-content-between">
-                                    <h6 className="m-0"><i className="fa fa-star text-primary mr-2"></i>4.5 <small>(250)</small></h6>
-                                    <h5 className="m-0">$350</h5>
-                                </div>
-                            </div>
+                            
                         </div>
                     </div>
                 </div>
@@ -65,12 +55,7 @@ export default function chanpasakplaces() {
                                 <small className="m-0"><i className="fa fa-user text-primary mr-2"></i>2 Person</small>
                             </div>
                             <a className="h5 text-decoration-none" href="/#">Discover amazing places of the world with us</a>
-                            <div className="border-top mt-4 pt-4">
-                                <div className="d-flex justify-content-between">
-                                    <h6 className="m-0"><i className="fa fa-star text-primary mr-2"></i>4.5 <small>(250)</small></h6>
-                                    <h5 className="m-0">$350</h5>
-                                </div>
-                            </div>
+                            
                         </div>
                     </div>
                 </div>
@@ -84,12 +69,7 @@ export default function chanpasakplaces() {
                                 <small className="m-0"><i className="fa fa-user text-primary mr-2"></i>2 Person</small>
                             </div>
                             <a className="h5 text-decoration-none" href="/#">Discover amazing places of the world with us</a>
-                            <div className="border-top mt-4 pt-4">
-                                <div className="d-flex justify-content-between">
-                                    <h6 className="m-0"><i className="fa fa-star text-primary mr-2"></i>4.5 <small>(250)</small></h6>
-                                    <h5 className="m-0">$350</h5>
-                                </div>
-                            </div>
+                            
                         </div>
                     </div>
                 </div>
@@ -103,12 +83,7 @@ export default function chanpasakplaces() {
                                 <small className="m-0"><i className="fa fa-user text-primary mr-2"></i>2 Person</small>
                             </div>
                             <a className="h5 text-decoration-none" href="/#">Discover amazing places of the world with us</a>
-                            <div className="border-top mt-4 pt-4">
-                                <div className="d-flex justify-content-between">
-                                    <h6 className="m-0"><i className="fa fa-star text-primary mr-2"></i>4.5 <small>(250)</small></h6>
-                                    <h5 className="m-0">$350</h5>
-                                </div>
-                            </div>
+                           
                         </div>
                     </div>
                 </div>
@@ -122,12 +97,7 @@ export default function chanpasakplaces() {
                                 <small className="m-0"><i className="fa fa-user text-primary mr-2"></i>2 Person</small>
                             </div>
                             <a className="h5 text-decoration-none" href="/#">Discover amazing places of the world with us</a>
-                            <div className="border-top mt-4 pt-4">
-                                <div className="d-flex justify-content-between">
-                                    <h6 className="m-0"><i className="fa fa-star text-primary mr-2"></i>4.5 <small>(250)</small></h6>
-                                    <h5 className="m-0">$350</h5>
-                                </div>
-                            </div>
+                           
                         </div>
                     </div>
                 </div>
