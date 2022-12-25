@@ -24,8 +24,13 @@ export default function Carousel() {
                         <div className="carousel-caption d-flex flex-column align-items-center justify-content-center">
                             <div className="p-3" style={{maxWidth :"900px"}}>
                                 <h4 className="text-white text-uppercase mb-md-3">ນຳສະເໝີແຫ່ງທ່ອງທ່ຽວ</h4>
+<<<<<<< HEAD
                                 <h1 className="display-3 text-white mb-md-4">ແຫ່ງທ່ອງທ່ຽວພິເສດສູດໆທີ່ເກີດຂື້ນຕາມທຳມະຊາດ</h1>
                                 <Link to ='/DestinationPage'><a href="/#" className="btn btn-primary py-md-3 px-md-5 mt-2">ຈອງຕອນນີ້</a></Link>
+=======
+                                <h1 className="display-3 text-white mb-md-4">ແຫ່ງທ່ອງທ່ຽວພິເສດສຸດໆທີ່ເກີດຂື້ນຕາມທຳມະຊາດ</h1>
+                                <a href="/#" className="btn btn-primary py-md-3 px-md-5 mt-2">ຈອງຕອນນີ້</a>
+>>>>>>> 867592ed95097ff398205a92669cf16409b509b1
                             </div>
                         </div>
                     </div>
