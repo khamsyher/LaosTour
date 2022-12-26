@@ -38,7 +38,11 @@ export default function luangprabangplaces() {
                 </div>
                 <div className="col-lg-4 col-md-6 mb-4">
                     <div className="package-item bg-white mb-2">
-                        <img className="img-fluid" src={Package2} alt=""/>
+                        <div>
+                        <Link to='/tickettype'>
+                            <a href='/#'><img className="img-fluid" src={Package2} alt=""/></a>
+                        </Link>   
+                        </div>
                         <div className="p-4">
                             <div className="d-flex justify-content-between mb-3">
                                 <small className="m-0"><i className="fa fa-map-marker-alt text-primary mr-2"></i>ນະຄອນຫຼວງພະບາງ</small>
@@ -51,7 +55,11 @@ export default function luangprabangplaces() {
                 </div>
                 <div className="col-lg-4 col-md-6 mb-4">
                     <div className="package-item bg-white mb-2">
-                        <img className="img-fluid" src={Package3} alt=""/>
+                        <div>
+                        <Link to='/tickettype'>
+                            <a href='/#'><img className="img-fluid" src={Package3} alt=""/></a>
+                        </Link>
+                        </div>
                         <div className="p-4">
                             <div className="d-flex justify-content-between mb-3">
                                 <small className="m-0"><i className="fa fa-map-marker-alt text-primary mr-2"></i>ນະຄອນຫຼວງພະບາງ</small>
@@ -67,7 +75,11 @@ export default function luangprabangplaces() {
                 </div>
                 <div className="col-lg-4 col-md-6 mb-4">
                     <div className="package-item bg-white mb-2">
-                        <img className="img-fluid" src={Package4} alt=""/>
+                        <div>
+                        <Link to='/tickettype'>
+                            <a href='/#'><img className="img-fluid" src={Package4} alt=""/></a>
+                        </Link>
+                        </div>
                         <div className="p-4">
                             <div className="d-flex justify-content-between mb-3">
                                 <small className="m-0"><i className="fa fa-map-marker-alt text-primary mr-2"></i>ເມືອງຈອມເພັດ</small>
@@ -80,7 +92,11 @@ export default function luangprabangplaces() {
                 </div>
                 <div className="col-lg-4 col-md-6 mb-4">
                     <div className="package-item bg-white mb-2">
-                        <img className="img-fluid" src={Package5} alt=""/>
+                        <div>
+                        <Link to='/tickettype'>
+                            <a href='/#'><img className="img-fluid" src={Package5} alt=""/></a>
+                        </Link>
+                        </div>
                         <div className="p-4">
                             <div className="d-flex justify-content-between mb-3">
                                 <small className="m-0"><i className="fa fa-map-marker-alt text-primary mr-2"></i>ນະຄອນຫຼວງພະບາງ</small>
@@ -94,7 +110,11 @@ export default function luangprabangplaces() {
                 </div>
                 <div className="col-lg-4 col-md-6 mb-4">
                     <div className="package-item bg-white mb-2">
-                        <img className="img-fluid" src={Package6} alt=""/>
+                        <div>
+                        <Link to='/tickettype'>
+                            <a href='/#'><img className="img-fluid" src={Package6} alt=""/></a>
+                        </Link>
+                        </div>
                         <div className="p-4">
                             <div className="d-flex justify-content-between mb-3">
                                 <small className="m-0"><i className="fa fa-map-marker-alt text-primary mr-2"></i>ເມືອງຊຽງເງິນ</small>

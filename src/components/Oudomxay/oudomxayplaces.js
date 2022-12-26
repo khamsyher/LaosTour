@@ -5,6 +5,7 @@ import Package3 from '../../img/oudomxay3.jpg'
 import Package4 from '../../img/oudomxay4.jpg'
 // import Package5 from '../../img/packageimage05.jpg'
 // import Package6 from '../../img/packageimage06.jpg'
+import { Link } from 'react-router-dom';
 
 export default function oudomxayplaces() {
   return (
@@ -19,7 +20,11 @@ export default function oudomxayplaces() {
             <div className="row">
                 <div className="col-lg-4 col-md-6 mb-4">
                     <div className="package-item bg-white mb-2">
-                        <img className="img-fluid" src={Package1} alt=""/>
+                    <div>
+                        <Link to='/tickettype'>
+                            <a href='/#'><img className="img-fluid" src={Package1} alt=""/></a>
+                        </Link>
+                        </div>
                         <div className="p-4">
                             <div className="d-flex justify-content-between mb-3">
                                 <small className="m-0"><i className="fa fa-map-marker-alt text-primary mr-2"></i>ບ້ານຈອມອອງ</small>

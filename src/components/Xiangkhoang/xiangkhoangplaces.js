@@ -5,6 +5,8 @@ import Image3 from '../../img/xiangkhoang3.jpg'
 import Image4 from '../../img/xiangkhoang4.jpg'
 import Image5 from '../../img/xiangkhoang5.jpg'
 import Image6 from '../../img/xiangkhoang6.jpg'
+import { Link } from 'react-router-dom';
+
 
 export default function xiangkhoangplaces() {
   return (
@@ -19,7 +21,9 @@ export default function xiangkhoangplaces() {
             <div className="row">
                 <div className="col-lg-4 col-md-6 mb-4">
                     <div className="package-item bg-white mb-2">
-                        <img className="img-fluid" src={Image1} alt=""/>
+                        <Link to = '/tickettype'>
+                            <a href='/#'><img className="img-fluid" src={Image1} alt=""/></a>
+                        </Link>
                         <div className="p-4">
                             <div className="d-flex justify-content-between mb-3">
                                 <small className="m-0"><i className="fa fa-map-marker-alt text-primary mr-2"></i>ເມືອງໂພນສະຫວັນ</small>
@@ -34,7 +38,9 @@ export default function xiangkhoangplaces() {
                 </div>
                 <div className="col-lg-4 col-md-6 mb-4">
                     <div className="package-item bg-white mb-2">
-                        <img className="img-fluid" src={Image2} alt=""/>
+                        <Link to = '/tickettype'>
+                            <a href='/#'><img className="img-fluid" src={Image2} alt=""/></a>
+                        </Link>
                         <div className="p-4">
                             <div className="d-flex justify-content-between mb-3">
                                 <small className="m-0"><i className="fa fa-map-marker-alt text-primary mr-2"></i>ເມືອງຄຳ </small>
@@ -47,7 +53,9 @@ export default function xiangkhoangplaces() {
                 </div>
                 <div className="col-lg-4 col-md-6 mb-4">
                     <div className="package-item bg-white mb-2">
-                        <img className="img-fluid" src={Image3} alt=""/>
+                        <Link to = '/tickettype'>
+                            <a href='/#'><img className="img-fluid" src={Image3} alt=""/></a>
+                        </Link>
                         <div className="p-4">
                             <div className="d-flex justify-content-between mb-3">
                                 <small className="m-0"><i className="fa fa-map-marker-alt text-primary mr-2"></i>ເມືອງຄູນ</small>
@@ -60,7 +68,9 @@ export default function xiangkhoangplaces() {
                 </div>
                 <div className="col-lg-4 col-md-6 mb-4">
                     <div className="package-item bg-white mb-2">
-                        <img className="img-fluid" src={Image4} alt=""/>
+                        <Link to = '/tickettype'>
+                            <a href='/#'><img className="img-fluid" src={Image4} alt=""/></a>
+                        </Link>
                         <div className="p-4">
                             <div className="d-flex justify-content-between mb-3">
                                 <small className="m-0"><i className="fa fa-map-marker-alt text-primary mr-2"></i>ເມືອງໜອງແຮດ </small>
@@ -73,7 +83,9 @@ export default function xiangkhoangplaces() {
                 </div>
                 <div className="col-lg-4 col-md-6 mb-4">
                     <div className="package-item bg-white mb-2">
-                        <img className="img-fluid" src={Image5} alt=""/>
+                        <Link to = '/tickettype'>
+                            <a href='/#'><img className="img-fluid" src={Image5} alt=""/></a>
+                        </Link>
                         <div className="p-4">
                             <div className="d-flex justify-content-between mb-3">
                                 <small className="m-0"><i className="fa fa-map-marker-alt text-primary mr-2"></i>ເມືອງແປກ</small>
@@ -86,7 +98,9 @@ export default function xiangkhoangplaces() {
                 </div>
                 <div className="col-lg-4 col-md-6 mb-4">
                     <div className="package-item bg-white mb-2">
-                        <img className="img-fluid" src={Image6} alt=""/>
+                        <Link to = '/tickettype'>
+                            <a href='/#'><img className="img-fluid" src={Image6} alt=""/></a>
+                        </Link>
                         <div className="p-4">
                             <div className="d-flex justify-content-between mb-3">
                                 <small className="m-0"><i className="fa fa-map-marker-alt text-primary mr-2"></i>ເມືອງໂພນສະຫວັນ</small>

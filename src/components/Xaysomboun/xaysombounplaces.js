@@ -5,6 +5,8 @@ import Package3 from '../../img/xaysomboun3.jpg'
 import Package4 from '../../img/xaysomboun4.jpg'
 import Package5 from '../../img/xaysomboun5.jpg'
 import Package6 from '../../img/xaysomboun6.jpg'
+import { Link } from 'react-router-dom';
+
 
 export default function xaysombounplaces() {
   return (
@@ -19,7 +21,9 @@ export default function xaysombounplaces() {
             <div className="row">
                 <div className="col-lg-4 col-md-6 mb-4">
                     <div className="package-item bg-white mb-2">
-                        <img className="img-fluid" src={Package1} alt=""/>
+                        <Link to = '/tickettype'>
+                            <a href='/#'><img className="img-fluid" src={Package1} alt=""/></a>
+                        </Link>
                         <div className="p-4">
                             <div className="d-flex justify-content-between mb-3">
                                 <small className="m-0"><i className="fa fa-map-marker-alt text-primary mr-2"></i>ເມືອງອະນຸວົງ</small>
@@ -33,7 +37,9 @@ export default function xaysombounplaces() {
                 </div>
                 <div className="col-lg-4 col-md-6 mb-4">
                     <div className="package-item bg-white mb-2">
-                        <img className="img-fluid" src={Package2} alt=""/>
+                        <Link to = '/tickettype'>
+                            <a href='/#'><img className="img-fluid" src={Package2} alt=""/></a>
+                        </Link>
                         <div className="p-4">
                             <div className="d-flex justify-content-between mb-3">
                                 <small className="m-0"><i className="fa fa-map-marker-alt text-primary mr-2"></i>ເມືອງອະນຸວົງ</small>
@@ -47,7 +53,9 @@ export default function xaysombounplaces() {
                 </div>
                 <div className="col-lg-4 col-md-6 mb-4">
                     <div className="package-item bg-white mb-2">
-                        <img className="img-fluid" src={Package3} alt=""/>
+                        <Link to = '/tickettype'>
+                            <a href='/#'><img className="img-fluid" src={Package3} alt=""/></a>
+                        </Link>
                         <div className="p-4">
                             <div className="d-flex justify-content-between mb-3">
                                 <small className="m-0"><i className="fa fa-map-marker-alt text-primary mr-2"></i>ເມືອງອະນຸວົງ</small>
@@ -61,7 +69,9 @@ export default function xaysombounplaces() {
                 </div>
                 <div className="col-lg-4 col-md-6 mb-4">
                     <div className="package-item bg-white mb-2">
-                        <img className="img-fluid" src={Package4} alt=""/>
+                        <Link to = '/tickettype'>
+                            <a href='/#'><img className="img-fluid" src={Package4} alt=""/></a>
+                        </Link>
                         <div className="p-4">
                             <div className="d-flex justify-content-between mb-3">
                                 <small className="m-0"><i className="fa fa-map-marker-alt text-primary mr-2"></i>ເມືອງອະນຸວົງ</small>
@@ -75,7 +85,9 @@ export default function xaysombounplaces() {
                 </div>
                 <div className="col-lg-4 col-md-6 mb-4">
                     <div className="package-item bg-white mb-2">
-                        <img className="img-fluid" src={Package5} alt=""/>
+                        <Link to = '/tickettype'>
+                            <a href='/#'><img className="img-fluid" src={Package5} alt=""/></a>
+                        </Link>
                         <div className="p-4">
                             <div className="d-flex justify-content-between mb-3">
                                 <small className="m-0"><i className="fa fa-map-marker-alt text-primary mr-2"></i>ເມືອງຮົ່ມ</small>
@@ -89,7 +101,9 @@ export default function xaysombounplaces() {
                 </div>
                 <div className="col-lg-4 col-md-6 mb-4">
                     <div className="package-item bg-white mb-2">
-                        <img className="img-fluid" src={Package6} alt=""/>
+                        <Link to = '/tickettype'>
+                            <a href='/#'><img className="img-fluid" src={Package6} alt=""/></a>
+                        </Link>
                         <div className="p-4">
                             <div className="d-flex justify-content-between mb-3">
                                 <small className="m-0"><i className="fa fa-map-marker-alt text-primary mr-2"></i>ເມືອງລ້ອງແຈ້ງ</small>
