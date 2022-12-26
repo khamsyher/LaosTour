@@ -1,5 +1,6 @@
 import React from 'react'
 
+
 export default function Topbar() {
   return (
     <>
@@ -15,14 +16,12 @@ export default function Topbar() {
                 </div>
                 <div className="col-lg-6 text-center text-lg-right">
                     <div className="d-inline-flex align-items-center">
-                        <a className="text-primary px-3" href="/#">
-                            
-                        </a>
+                        
                         <a className="text-primary px-3" href="/#">
                             <i className="fab fa-facebook-f"></i>
                         </a>
                         <a className="text-primary px-3" href="/#">
-                            <i className="fab fa-linkedin-in"></i>
+                            <i className="fab fa-whatsapp"></i>
                         </a>
                         <a className="text-primary px-3" href="/#">
                             <i className="fab fa-instagram"></i>

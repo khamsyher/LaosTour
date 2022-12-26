@@ -11,7 +11,7 @@ export default function Booking() {
                         <div className="row">
                             <div className="col-md-3">
                                 <div className="mb-3 mb-md-0">
-                                    <small>ຈຸດໝາຍປາຍທາງ</small>
+                                    <small>ເປັ້າໝາຍການເດີນທາງ</small>
                                     <select className="custom-select px-4" style={{height: "47px"}}>
                                         <option selected>ເລືອກປາຍທາງ</option>
                                         <option value="1">ຜົ້ງສາລີ</option>

@@ -30,7 +30,7 @@ export default function tickettype() {
                             <a className="h5 m-0 text-decoration-none" href="/#">ການຈອງປີ້ແບບຄົນດຽວ</a>
                         </div>
                     </div>
-                    <Link to ='/'><a href="/#" className="btn btn-primary mt-1" style={{marginLeft:"8rem"}}>ຈອງເລີຍ!</a></Link>
+                    <Link to ='/Booking'><a href="/#" className="btn btn-primary mt-1" style={{marginLeft:"8rem"}}>ຈອງເລີຍ!</a></Link>
                 </div>
                 <div className="col-lg-4 col-md-6 mb-4 pb-2">
                     <div className="blog-item">
@@ -45,7 +45,7 @@ export default function tickettype() {
                             <a className="h5 m-0 text-decoration-none" href="/#">ການຈອງປີ້ແບບນຳຄູ່ຮັກຫຼືໝູ່</a>
                         </div>
                     </div>
-                    <Link to ='/'><a href="/#" className="btn btn-primary mt-1" style={{marginLeft:"8rem"}}>ຈອງເລີຍ!</a></Link>
+                    <Link to ='/Booking'><a href="/#" className="btn btn-primary mt-1" style={{marginLeft:"8rem"}}>ຈອງເລີຍ!</a></Link>
                 </div>
                 <div className="col-lg-4 col-md-6 mb-4 pb-2">
                     <div className="blog-item">
@@ -60,7 +60,7 @@ export default function tickettype() {
                             <a className="h5 m-0 text-decoration-none text-center" href="/#">ການຈອງປີ້ແບບຄອບຄົວ</a>
                         </div>
                     </div>
-                    <Link to ='/'><a href="/#" className="btn btn-primary mt-1 position-absolute" style={{marginLeft:"8rem"}}>ຈອງເລີຍ!</a></Link>
+                    <Link to ='/Booking'><a href="/#" className="btn btn-primary mt-1 position-absolute" style={{marginLeft:"8rem"}}>ຈອງເລີຍ!</a></Link>
                 </div>
             </div>
         </div>
